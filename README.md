@@ -10,7 +10,7 @@ sudo python3 traceroute_hijacker.py <iface_to_user> <iface_to_inet>
 
 ### Тестирование
 
-    ```
-    traceroute olen.penis
-    ```
+```
+traceroute olen.penis
+```
     В выводе команды вместо IP-адресов маршрутизаторов появятся строки из песни.
